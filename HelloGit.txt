@@ -2,7 +2,7 @@
 
 class HelloGit{
 public static void main(String args[]){
-	System.out.println("java application. this will print...welcome to git");
-	
+
+	System.out.println("This will print...***Welcome to git***");	
 	}
 }
