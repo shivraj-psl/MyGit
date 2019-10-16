@@ -1,7 +1,7 @@
-this is my complete java application file... Hello Git...!!!
+//this is my complete java application file... Hello Git...!!!
 
 class HelloGit{
-public static void main(){
-sysout("welcome to git");
-}
+public static void main(String args[]){
+	System.out.println("welcome to git");
+	}
 }
